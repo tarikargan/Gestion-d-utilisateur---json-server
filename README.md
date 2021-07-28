@@ -2,5 +2,6 @@
 getion d'utilisateur avec json-server
 
 
-# npm install
-# npm run json:server
+1-npm install
+2-run json server ==> CMD : npm run json:server
+3-open prj
